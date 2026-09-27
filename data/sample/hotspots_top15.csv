@@ -1,0 +1,16 @@
+hotspot_id,lat,lon,seg,rides,n_events,max_peak_per_speed,n_rides_seen,rides_covering_segment,status,segment,maps_link,photo_file,defect_type,source
+H01,26.189597,91.693678,S4,"rp2_0926_1647,rp3_0927_1146,rp5_0927_1407,rp6_0927_1433",5,25.793699,4,3,confirmed,Library–Core 5,"https://maps.google.com/?q=26.189597,91.693678",,,observed
+H02,26.196023,91.694239,S1,"rp2_0926_1647,rp3_0927_1146,rp5_0927_1407,rp6_0927_1433",6,19.135894,4,4,confirmed,Faculty market–Serpentine,"https://maps.google.com/?q=26.196023,91.694239",,,observed
+H03,26.189177,91.69397,S4,"rp2_0926_1647,rp3_0927_1146,rp5_0927_1407,rp6_0927_1433",10,16.820995,4,3,confirmed,Library–Core 5,"https://maps.google.com/?q=26.189177,91.693970",,,observed
+H04,26.190805,91.693624,S3,"rp2_0926_1647,rp3_0927_1146,rp5_0927_1407,rp6_0927_1433",4,12.313259,4,4,confirmed,New SAC–Library,"https://maps.google.com/?q=26.190805,91.693624",,,observed
+H05,26.197272,91.692923,S1,"rp2_0926_1647,rp3_0927_1146,rp5_0927_1407,rp6_0927_1433",4,11.963157,4,4,confirmed,Faculty market–Serpentine,"https://maps.google.com/?q=26.197272,91.692923",,,observed
+H06,26.191489,91.694267,S3,"rp2_0926_1647,rp3_0927_1146,rp5_0927_1407,rp6_0927_1433",7,10.453187,4,4,confirmed,New SAC–Library,"https://maps.google.com/?q=26.191489,91.694267",,,observed
+H07,26.197014,91.693551,S1,"rp2_0926_1647,rp3_0927_1146,rp5_0927_1407,rp6_0927_1433",5,7.351728,4,4,confirmed,Faculty market–Serpentine,"https://maps.google.com/?q=26.197014,91.693551",,,observed
+H08,26.184038,91.695518,S5,"rp3_0927_1146,rp5_0927_1407,rp6_0927_1433",7,23.661845,3,3,confirmed,Core 5–Brahmaputra (backside),"https://maps.google.com/?q=26.184038,91.695518",,,observed
+H09,26.186235,91.691704,S4,"rp3_0927_1146,rp5_0927_1407,rp6_0927_1433",8,19.470652,3,3,confirmed,Library–Core 5,"https://maps.google.com/?q=26.186235,91.691704",,,observed
+H10,26.186167,91.691224,S4,"rp3_0927_1146,rp5_0927_1407,rp6_0927_1433",6,18.176658,3,3,confirmed,Library–Core 5,"https://maps.google.com/?q=26.186167,91.691224",,,observed
+H11,26.186142,91.692389,S4,"rp3_0927_1146,rp5_0927_1407,rp6_0927_1433",8,13.015943,3,3,confirmed,Library–Core 5,"https://maps.google.com/?q=26.186142,91.692389",,,observed
+H12,26.186157,91.692788,S4,"rp3_0927_1146,rp5_0927_1407,rp6_0927_1433",5,12.936359,3,3,confirmed,Library–Core 5,"https://maps.google.com/?q=26.186157,91.692788",,,observed
+H13,26.186135,91.6907,S4,"rp3_0927_1146,rp5_0927_1407,rp6_0927_1433",5,12.089672,3,3,confirmed,Library–Core 5,"https://maps.google.com/?q=26.186135,91.690700",,,observed
+H14,26.187887,91.69287,S4,"rp3_0927_1146,rp5_0927_1407,rp6_0927_1433",9,11.416825,3,3,confirmed,Library–Core 5,"https://maps.google.com/?q=26.187887,91.692870",,,observed
+H15,26.186043,91.699978,S5,"rp3_0927_1146,rp5_0927_1407,rp6_0927_1433",6,10.552887,3,3,confirmed,Core 5–Brahmaputra (backside),"https://maps.google.com/?q=26.186043,91.699978",,,observed

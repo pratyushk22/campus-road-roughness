@@ -1,0 +1,7 @@
+seg,segment,rides,mean_roughness,std_across_rides,r_rp2_0926_1647,r_rp3_0927_1146,r_rp5_0927_1407,r_rp6_0927_1433,length_m,confirmed_hotspots,confirmed_per_km
+S4,Library–Core 5,3,0.849,0.026,,0.879,0.835,0.832,850,12.0,14.118
+S3,New SAC–Library,4,0.543,0.069,0.495,0.606,0.597,0.472,700,10.0,14.286
+S1,Faculty market–Serpentine,4,0.529,0.057,0.492,0.485,0.609,0.528,950,13.0,13.684
+S2,Serpentine–New SAC,3,0.51,0.067,0.433,0.542,0.556,,800,8.0,10.0
+S6,Library–Brahmaputra (direct),1,0.496,,0.496,,,,800,0.0,0.0
+S5,Core 5–Brahmaputra (backside),3,0.466,0.026,,0.445,0.459,0.495,1450,12.0,8.276
