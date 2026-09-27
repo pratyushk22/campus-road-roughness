@@ -1,15 +1,12 @@
 # Campus Road Roughness — IIT Guwahati (LATENT48, SAIL × Granica)
 
 **Question:** Which campus road stretches should be repaired first, measured rather than guessed?
-**Decision-maker:** IITG Estates / civil maintenance. **Affected users:** students who cycle and walk.
+**Decision-maker:** IITG Estates / civil maintenance. **Affected users:** students, delivery drivers, professors and their kins and everyone else who uses IITG roads.
 
-We mounted a phone on a bicycle handlebar, rode a fixed ~5 km loop in both directions across
+I mounted a phone on a bicycle handlebar, rode a fixed ~5 km loop in both directions across
 two days, and turned vibration + GPS into a per-50 m roughness map and a list of bump
 hotspots. Photos at hotspots were classified by a vision model, and an anonymous student
 survey was used as a cross-check.
-Inspired by Gaurav Sen's pothole-reporting project (dashcam + accelerometer on a car in
-Bengaluru); adapted here to a bicycle, a campus, repeat rides and vibration–photo cross-checks.
-
 ---
 
 ## Headline findings
