@@ -80,7 +80,7 @@ shows raw 3-axis signal → vertical vibration with the bump threshold → 50 m 
 
 **Protocol.** iPhone fixed on the handlebar in the same orientation every ride; phyphox logging
 acceleration (~100 Hz) and GPS (~1 Hz). Same bicycle, steady ~12 km/h (mean GPS speed 3.2–3.4 m/s),
-riding straight over the road surface. Before each ride the rider stood still and tapped the
+riding straight over the road surface. Before each ride I stood still and tapped the
 handlebar three times (sync marker). phyphox was paused at each landmark (Faculty market,
 Serpentine, New SAC, Library, Core 5, Brahmaputra) and, on rp6, at each photo stop: ride over the
 defect at normal speed, stop ~10 m later, pause, photograph, resume.
@@ -176,11 +176,10 @@ time), `segment`, `nearest_hotspot`, `hotspot_dist_m`, `hotspot_status`, `hotspo
 - Photo stops were chosen partly from the hotspot list (selection bias).
 - Survey is a small convenience sample (10) from the rider's own groups.
 
-## What we would collect next
+## What I would collect next
 Weekday rides and fixed-point traffic counts for usage weighting; a second phone/rider to
 test device dependence; a rainy-day ride for waterlogging; more survey responses across hostels.
 
 ## Privacy
-No people are identifiable in the data: counts and road photos only; one photo (IMG_2542) was
-cropped to remove a distant cyclist. The survey collected no names, emails or roll numbers.
+No people are identifiable in the data: counts and road photos only; The survey collected no names, emails or roll numbers.
 Raw full-resolution photos and video are not published.
